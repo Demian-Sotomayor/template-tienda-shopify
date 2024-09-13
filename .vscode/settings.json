@@ -1,0 +1,21 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true
+    },
+    "[liquid]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "Shopify.theme-check-vscode"
+    },
+    "[json]": {
+      "editor.formatOnSave": true,
+    },
+    "todo-tree.tree.showBadges": true,
+    "todo-tree.tree.showCountsInTree": true
+  }
